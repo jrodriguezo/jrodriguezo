@@ -1,12 +1,13 @@
 # $~: whoami
 
-![](https://komarev.com/ghpvc/?username=jrodriguezo&color=grey)
+
+
+
+
+### <p align=center> Hi there! 👋 I'm Jesus </p>
+#### <p align=center> *Lovin' code random stuffs and make it beautiful*</p>
 
 **< About me />**
-
-   ```
-   db.profile.insert({user: "jrodriguezo", description: "Telecom Engineer - Fullstack Developer" }) 
-   ```
    
    ```js
    while(alive){
@@ -18,7 +19,7 @@
    
 **< Languages and Tools />**  
 
-<h4 align="center"> FRONTEND </h4>
+<h4 align="center"> FRONTEND :heart:</h4>
 <p align="center"> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
