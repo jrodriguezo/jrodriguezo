@@ -5,7 +5,7 @@
 
 
 ### <p align=center> Hi there! 👋 I'm Jesus </p>
-#### <p align=center> *Lovin' code random stuffs and make it beautiful*</p>
+#### <p align=center> *Lovin' code random stuffs and make them beautiful*</p>
 
 **< About me />**
    
